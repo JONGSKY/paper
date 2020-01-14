@@ -9,7 +9,7 @@
 
 ![CNN_구조](https://user-images.githubusercontent.com/40276516/72335021-9d31c100-3701-11ea-9a36-7a57615ced41.png)
 
-- convoltional filter와 pooling filter가 반복적으로 연결된 뒤에 적절한 사이즈, 특징을 알아내었을 때 최종적으로 fully connected layer로 연결하게 되고 그 후 classification(분류) 또는 다양한 연산을 수행하여 output을 얻게 됩니다.
+- convoltional filter와 pooling filter가 반복적으로 연결된 뒤에 적절한 사이즈, 특징을 알아내었을 때 최종적으로 fully connected layer로 연결하게 되고 그 후 classification(분류) 또는 다양한 연산을 수행하여 결과값을 얻게 됩니다.
 
   - Convolutional filter
 ![convolution_filter](https://user-images.githubusercontent.com/40276516/72339170-2e586600-3709-11ea-8bbb-e5bdcbdac211.png)
@@ -30,7 +30,11 @@
     3. stochastic pooling (확률 풀링)
         - 일정한 크기(n*n)내에 있는 데이터들의 값들중 하나를 확률에 근거하여 대푯값으로 설정합니다.
 ![pooling](https://user-images.githubusercontent.com/40276516/72334985-9014d200-3701-11ea-9d49-a7e3f01af692.png)
- 
+
+  - Fully connected layer
+![fully_connected_layer](https://user-images.githubusercontent.com/40276516/72340826-3534a800-370c-11ea-831e-6371f01a1eb0.png)
+    - 
+    
     
 - Stride(스프라이드[보폭])
   - stride는 입력데이터에 필터를 씌울 때 이동할 간격을 조절하는 양을 의미합니다.
