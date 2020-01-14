@@ -21,7 +21,6 @@
 ![5_pooling](https://user-images.githubusercontent.com/40276516/72340025-bb4fef00-370a-11ea-8e77-f9bb606a999a.png)
     - pooling 층은 앞선 특징들을 추출한 층들이 너무 크게 되면 연산량이 많아지고 복잡해지기 때문에 층을 단순화하고 사이즈를 축소해주는 층입니다.
     - 즉 연산량이 많아지고 복잡해지면 Overfitting이 일어나게 되는데 이를 방지하기 위한 층입니다.
-  
   - pooling은 크게 3가지로 나눠집니다.
     1. max pooling (최대 풀링)
         - 일정한 크기(n*n)내에 있는 데이터의 값 중에서 가장 큰 값을 대푯값으로 설정합니다.
@@ -34,7 +33,6 @@
   - Fully connected layer
 ![fully_connected_layer](https://user-images.githubusercontent.com/40276516/72340826-3534a800-370c-11ea-831e-6371f01a1eb0.png)
     - 
-    
     
 - Stride(스프라이드[보폭])
   - stride는 입력데이터에 필터를 씌울 때 이동할 간격을 조절하는 양을 의미합니다.
