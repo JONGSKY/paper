@@ -1,5 +1,7 @@
 # Convolutional Neural Network (CNN)
 
++ 내 맘대로 한줄 요약 : 
+
 ## CNN이란
 
 #### CNN의 정의
