@@ -1,6 +1,6 @@
 # Convolutional Neural Network (CNN)
 
-+ 내 맘대로 한줄 요약 : 각각의 특징들을 이용해 강조하고(Convolutional) 다시 강조된 것을 다시 사이즈 조정하고(Pooling) 이후 연산하고(Fully connected) 이후에 분류 또는 다양한 결과값을 얻는다. 
++ 내 맘대로 한줄 요약 : 각각의 특징들을 이용해 강조하고(Convolutional) 다시 강조된 것을 다시 사이즈 조정하고(Pooling) 이후 연산하고(Fully connected) 이후에 분류(softmax) 또는 다양한 결과값을 얻는다. 
 
 ## CNN이란
 
