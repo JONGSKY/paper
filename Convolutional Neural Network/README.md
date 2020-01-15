@@ -34,7 +34,7 @@
 
   - Fully connected layer
 ![fully_connected_layer](https://user-images.githubusercontent.com/40276516/72340826-3534a800-370c-11ea-831e-6371f01a1eb0.png)
-    - 
+    - 완전 연결층에서 weight(가중치)와 bias(스칼라값)들의 연산을 거쳐서 classification 이나 다양한 
     
 - Stride(스프라이드[보폭])
   - stride는 입력데이터에 필터를 씌울 때 이동할 간격을 조절하는 양을 의미합니다.
