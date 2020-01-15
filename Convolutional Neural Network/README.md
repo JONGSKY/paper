@@ -47,13 +47,12 @@
 
 
 
-※ 참고자료 ※
+### ※ 참고자료 ※
 - 영상
   - [십분딥러닝_CNN_1](https://www.youtube.com/watch?v=P9gDMUDRgGk)
   - [십분딥러닝_CNN_2](https://www.youtube.com/watch?v=_qH1K98W8aE)
 - 글
   - [합성곱신경망_학습알고리즘](https://untitledtblog.tistory.com/150)
   - [Pooling이란](https://medium.com/@hobinjeong/cnn%EC%97%90%EC%84%9C-pooling%EC%9D%B4%EB%9E%80-c4e01aa83c83)
-  - https://everyday-deeplearning.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%95%98%EA%B8%B0-CNNConvolution-Neural-Network
-   
+  - [CNN_이론](https://everyday-deeplearning.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%95%98%EA%B8%B0-CNNConvolution-Neural-Network)
 
