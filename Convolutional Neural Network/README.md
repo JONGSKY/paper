@@ -1,6 +1,6 @@
 # Convolutional Neural Network (CNN)
 
-+ 내 맘대로 한줄 요약 : 
++ 내 맘대로 한줄 요약 : 각각의 특징들을 이용해 강조하고(Convolutional) 다시 강조된 것을 다시 사이즈 조정하고(Pooling) 이후 연산하고(Fully connected) 이후에 분류 또는 다양한 결과값을 얻는다.
 
 ## CNN이란
 
@@ -11,7 +11,7 @@
 
 ![CNN_구조](https://user-images.githubusercontent.com/40276516/72335021-9d31c100-3701-11ea-9a36-7a57615ced41.png)
 
-- convoltional filter와 pooling filter가 반복적으로 연결된 뒤에 적절한 사이즈, 특징을 알아내었을 때 최종적으로 fully connected layer로 연결하게 되고 그 후 classification(분류) 또는 다양한 연산을 수행하여 결과값을 얻게 됩니다.
+- convolutional filter와 pooling filter가 반복적으로 연결된 뒤에 적절한 사이즈, 특징을 알아내었을 때 최종적으로 fully connected layer로 연결하게 되고 그 후 classification(분류) 또는 다양한 연산을 수행하여 결과값을 얻게 됩니다.
 
   - Convolutional filter
 ![convolution_filter](https://user-images.githubusercontent.com/40276516/72339170-2e586600-3709-11ea-8bbb-e5bdcbdac211.png)
@@ -45,5 +45,3 @@
   - 이미지 사이즈를 조정하는데에도 많이 쓰이며 바깥쪽에 대한 중요한 특징을 추출하는데도 도움이 됩니다.
 ![padding](https://user-images.githubusercontent.com/40276516/72336002-44632800-3703-11ea-8e5c-91d1dad1e14e.gif)
 
-
- 
