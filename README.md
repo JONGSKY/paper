@@ -2,7 +2,7 @@
 
 ## 구현예정 논문들
 
-1. 
+1. [CNN(COnvolutional Neural Network](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
 2. 
 3. 
 4. 
