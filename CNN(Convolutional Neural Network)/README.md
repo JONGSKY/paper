@@ -46,21 +46,21 @@
   - 이미지 사이즈를 조정하는데에도 많이 쓰이며 바깥쪽에 대한 중요한 특징을 추출하는데도 도움이 됩니다.
 ![padding](https://user-images.githubusercontent.com/40276516/72336002-44632800-3703-11ea-8e5c-91d1dad1e14e.gif)
 
- - Forward pass (순방향 패스)
+- Forward pass (순방향 패스)
   - 파라미터를 사용하여 입력부터 출력까지의 각 계층의 weight를 계산하는 과정을 거치는 것을 순방향 패스(forward pass)라고 합니다.
 
- - Backward pass (역방향 패스)
+- Backward pass (역방향 패스)
   - forward pass를 반대로 거슬러 올라가며 다시 한번 계산 과정을 거쳐 기존의 weight를 수정하는 것을 역방향 패스(backward pass)라고 합니다.
   
- - Epoch
+- Epoch
   - 전체 데이터 셋에 대해 (forward pass + backward pass) 과정이 완료되면 한 번의 epoch가 진행했다고 할 수 있습니다.
   - epochs가 너무 작으면 underfitting이 일어날 수 있고 너무 크면 overfitting이 발생할 수 있습니다.
   - 따라서 적당한 epoch값을 설정해야 underfitting과 overfitting을 방지할 수 있습니다.
 
- - Batch Size
+- Batch Size
   - 한 번에 처리하는 사진의 장 수를 말합니다.
 
- - Iteration
+- Iteration
   - 1회 학습하는 것을 의미합니다. 
   - 만약 총 데이터가 100개인데 batch_size가 10이면 1 iteration당 10개 데이터를 학습합니다.
   - 그래서 10 iterations를 하게되면 1 Epoch가 되게 됩니다.
