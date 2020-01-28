@@ -32,12 +32,6 @@
   - Natural Language Understanding - Chatbot
 - Text to Image , Image to Text
 
-1. [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
-2. 
-3. 
-4. 
-
-
 ## 논문의 종류 
 - 논문은 크게 Conference paper와 Journal paper가 있습니다.
 - Conference(학회)는 학술대회장에 많은 사람이 모여 각자의 연구(논문)를 발표하며 교류하는 행사를 말하고 여름, 겨울마다 가는 정보과학회 학술대회라고 생각하시면 됩니다.
@@ -64,3 +58,12 @@
 - Method(방법)과 Experiment(실험)을 읽으면서 디테일한 부분들을 이해하고 채워나갑니다.
 
 [출처사이트](https://github.com/HYU-AILAB/ai-seminar/wiki/%EB%85%BC%EB%AC%B8-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95).
+
+
+
+
+1. [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
+2. 
+3. 
+4. 
+
