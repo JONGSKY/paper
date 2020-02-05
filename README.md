@@ -2,11 +2,35 @@
 
 ## 구현예정 논문들
 
-1. [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
-2. 
-3. 
-4. 
+- Image 처리 관련 논문
+  - Image Classification - CIFAR 10 , ImageNet
+    - AlexNet
+    - VGGNet
+    - GoogLeNet (Inception V2)
+    - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
+    - EfficientNet
+  - Image Detection - COCODataset 
+    - [이미지 라벨링](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-labeling/)
+    - [이호성](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
+    - R-CNN
+    - Fast R-CNN, Faster R-CNN
+    - YoLo v1,v2,v3
+    - SSD
+  - Image Segmentation
+    - FCN
+    - SANet
+  - Image Generation
+    - [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+    - WGAN
+    - BEGAN
+    - StyleGAN
 
+- Text 처리 관련 논문
+  - Text Classification
+  - Text Summarization
+  - Machine Translation
+  - Natural Language Understanding - Chatbot
+- Text to Image , Image to Text
 
 ## 논문의 종류 
 - 논문은 크게 Conference paper와 Journal paper가 있습니다.
@@ -34,3 +58,12 @@
 - Method(방법)과 Experiment(실험)을 읽으면서 디테일한 부분들을 이해하고 채워나갑니다.
 
 [출처사이트](https://github.com/HYU-AILAB/ai-seminar/wiki/%EB%85%BC%EB%AC%B8-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95).
+
+
+
+
+1. [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
+2. 
+3. 
+4. 
+
