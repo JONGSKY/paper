@@ -4,7 +4,7 @@
 
 - Image 처리 관련 논문
   - Image Classification - CIFAR 10 , ImageNet
-    - AlexNet
+    - [AlexNet](https://github.com/JONGSKY/paper/tree/master/AlexNet)
     - VGGNet
     - GoogLeNet (Inception V2)
     - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
