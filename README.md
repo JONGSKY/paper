@@ -4,11 +4,12 @@
 
 - Image 처리 관련 논문
   - Image Classification - CIFAR 10 , ImageNet
-    - [AlexNet](https://github.com/JONGSKY/paper/tree/master/AlexNet)
-    - VGGNet
-    - GoogLeNet (Inception V2)
-    - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
-    - EfficientNet
+    - [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
+      - [AlexNet](https://github.com/JONGSKY/paper/tree/master/AlexNet)
+      - VGGNet
+      - GoogLeNet (Inception V2)
+      - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
+      - EfficientNet
   - Image Detection - COCODataset 
     - [이미지 라벨링](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-labeling/)
     - [이호성](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
@@ -62,7 +63,7 @@
 
 
 
-1. [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
+1. 
 2. 
 3. 
 4. 
