@@ -5,7 +5,7 @@
 - Image 처리 관련 논문
   - Image Classification - CIFAR 10 , ImageNet
     - [CNN(Convolutional Neural Network)](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network))
-      - [AlexNet](https://github.com/JONGSKY/paper/tree/master/AlexNet)
+      - [AlexNet](https://github.com/JONGSKY/paper/tree/master/CNN(Convolutional%20Neural%20Network)/AlexNet)
       - VGGNet
       - GoogLeNet (Inception V2)
       - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
@@ -59,12 +59,4 @@
 - Method(방법)과 Experiment(실험)을 읽으면서 디테일한 부분들을 이해하고 채워나갑니다.
 
 [출처사이트](https://github.com/HYU-AILAB/ai-seminar/wiki/%EB%85%BC%EB%AC%B8-%EC%84%A0%EC%A0%95-%EB%B0%8F-%EC%9D%BD%EB%8A%94-%EB%B0%A9%EB%B2%95).
-
-
-
-
-1. 
-2. 
-3. 
-4. 
 
