@@ -1,6 +1,5 @@
 # 논문 구현
 
-## 구현예정 논문들
 
 - Image 처리 관련 논문
   - Image Classification - CIFAR 10 , ImageNet
