@@ -35,7 +35,7 @@
  
  - Parameter 수 : (5*5*16 + 1) * 120 = 48120
  
- 6) F6 layer : FC layer로 1*1*120 data를 84개의 unit에 연결시켜 1*1*84개의 data로 만듭니다.
+ 6) F6 layer : FC layer로 1 * 1 * 120 data를 84개의 unit에 연결시켜 1*1*84개의 data로 만듭니다.
  
  - Parameter 수 : (120 + 1 ) * 84 = 10164
 
