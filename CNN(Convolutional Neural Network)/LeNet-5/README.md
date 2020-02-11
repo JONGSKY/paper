@@ -31,9 +31,9 @@
  4) S4 layer : Sub-Sampling Layer로 16장의 10*10 Feature map에 대해 2*2 필터(stride:2)로 서브샘플링 해줍니다. 이때 pooling은 average pooling을 시행하도록 합니다. 따라서 5*5 size 16장으로 바뀌게 됩니다.
   
   
- 5) C5 layer : FC(Fully connected) layer로 5*5*16 filter 120개를 사용해 Convolution 합니다. 그 결과로 1*1 Feature map이 120개 만들어지게 됩니다.
+ 5) C5 layer : FC(Fully connected) layer로 5 * 5 * 16 filter 120개를 사용해 Convolution 합니다. 그 결과로 1*1 Feature map이 120개 만들어지게 됩니다.
  
- - Parameter 수 : (5*5*16 + 1) * 120 = 48120
+ - Parameter 수 : (5 * 5 * 16 + 1) * 120 = 48120
  
  6) F6 layer : FC layer로 1 * 1 * 120 data를 84개의 unit에 연결시켜 1 * 1 * 84개의 data로 만듭니다.
  
