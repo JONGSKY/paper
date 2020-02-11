@@ -1,6 +1,6 @@
 # LeNet-5
 
-+ 내 맘대로 한줄 요약 : 
++ 내 맘대로 한줄 요약 : 아직 공부중
 
 ## LeNet-5이란
   - LeNet은 우편번호와 수표의 필기체를 인식하기 위해 개발되었습니다. CNN 모델을 최초로 개발한 사람은 프랑스 출신의 Yann LeCun이며, 1989년 “Backpropagation applied to handwritten zip code recognition” 논문을 통해 최초로 CNN을 사용하였고, 1998년 LeNet이라는 Network를 소개하였습니다. 이후 LeNet-1, LeNet-2, ... 등 최종 버전인 LeNet-5가 나오게 되었습니다.
