@@ -11,6 +11,8 @@
 
   - LeNet5는 총 7개의 Layer로 구성되어있습니다. 3개의 Convoltuion Layer, 2개의 Sub-Sampling Layer, 1개의 Fully-Connected Layer 그리고 최종 출력 Layer로 이루어져 있습니다.
 
+##### LeNet-5 구조설명
+
   1) C1 layer : Convolution Layer로 32*32 사이즈의 데이터를 5 * 5 Filter 6개를 사용해 Convolution 합니다. 그 결과로 28 * 28 사이즈의 Feature map을 6개 만들어 냅니다.
 - Parameter수 : 5 * 5 filter 6개, bias 6개 = 5 * 5 * 6 + 6 = 156 개
 
@@ -42,6 +44,14 @@
  7) Output layer : 10개의 Euclidean radial basis function(RBF) 유닛들로 구성되어있습니다. 각각의 F6 layer의 84개 유닛으로부터 인풋을 받게 되고 최종적으로 이미지가 속한 클래스를 알려주게 됩니다.
  
  - 총 Parameter 수는 : 156(C1) + 1516(C3) + 48120(C5) + 10164(F6) = 60000 개 입니다.
+
+## 그림으로 Layer 해석해보기
+
+![그림_1](https://user-images.githubusercontent.com/40276516/74237490-057ebd00-4d17-11ea-8aa2-492d33ad60b8.png)
+![그림_2](https://user-images.githubusercontent.com/40276516/74237492-06afea00-4d17-11ea-8589-7558454bdcf1.png)
+
+[PDF파일로 보기](https://github.com/JONGSKY/paper/files/4185671/Untitled_20200211_172225.PDF)
+
 
 ### ※ 참고자료 ※
 - 영상
