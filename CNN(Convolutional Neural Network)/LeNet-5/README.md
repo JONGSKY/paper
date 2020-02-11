@@ -12,7 +12,7 @@
   - LeNet5는 총 7개의 Layer로 구성되어있습니다. 3개의 Convoltuion Layer, 2개의 Sub-Sampling Layer, 1개의 Fully-Connected Layer 그리고 최종 출력 Layer로 이루어져 있습니다.
 
   1) C1 layer : Convolution Layer로 32*32 사이즈의 데이터를 5 * 5 Filter 6개를 사용해 Convolution 합니다. 그 결과로 28 * 28 사이즈의 Feature map을 6개 만들어 냅니다.
-- Parameter수 : 5*5 filter 6개, bias 6개 = 5 * 5 * 6 + 6 = 156 개
+- Parameter수 : 5 * 5 filter 6개, bias 6개 = 5 * 5 * 6 + 6 = 156 개
 
  2) S2 layer : Sub-Sampling Layer로 6장의 28 * 28 Feature map에 대해 2*2 필터(stride:2)로 서브샘플링 해줍니다. 이때 pooling은 average pooling을 시행하도록 합니다. 따라서 14 * 1 size 6장으로 만들게 됩니다.
  
