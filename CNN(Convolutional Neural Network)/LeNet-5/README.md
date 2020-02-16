@@ -54,7 +54,6 @@
 
 
 ### ※ 참고자료 ※
-- 영상
   - 
 - 글
   - [LeNet-5의 구조](https://bskyvision.com/418)
