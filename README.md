@@ -33,6 +33,7 @@
   - Natural Language Understanding - Chatbot
 - Text to Image , Image to Text
 
+
 ## 논문의 종류 
 - 논문은 크게 Conference paper와 Journal paper가 있습니다.
 - Conference(학회)는 학술대회장에 많은 사람이 모여 각자의 연구(논문)를 발표하며 교류하는 행사를 말하고 여름, 겨울마다 가는 정보과학회 학술대회라고 생각하시면 됩니다.
