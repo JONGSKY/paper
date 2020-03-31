@@ -65,4 +65,5 @@
 ### 참고
 - [1] Selective Search for Object Recognition, J. R. R. Uijings et al, IJCV13.
 - [R-CNN(Regions with CNN features) 논문 리뷰](https://jaehyeongan.github.io/2019/10/10/R-CNN/)
+- [혼자 논문읽기: RCNN 논문 분석](https://j911.me/2019/03/analysis-of-rcnn-paper.html)
 - [Object Detection 논문 흐름 및 리뷰](https://nuggy875.tistory.com/20)
