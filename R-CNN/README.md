@@ -1,7 +1,7 @@
 # R-CNN 
 
 ## R-CNN이란
-
+![Picture1](https://user-images.githubusercontent.com/40276516/78000057-a16b9300-736e-11ea-9b79-055670fc7e6e.png)
 #### R-CNN 정의
   - R-CNN은 Image classification을 수행하는 CNN과 이미지에서 물체가 존재할 영역을 제안해주는 region proposal 알고리즘을 연결하여 높은 성능의 object detection을 수행할 수 있음을 제시해 준 논문입니다. R-CNN의 목표는 하나의 이미지에서 주요 객체들을 박스(Bounding box)로 표현하여 정확히 식별(identify)하는 것에 있습니다.
   
