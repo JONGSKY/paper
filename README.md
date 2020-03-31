@@ -11,6 +11,7 @@
       - ResNet(https://arxiv.org/pdf/1512.03385v1.pdf)
       - EfficientNet
   - Image Detection - COCODataset 
+  ![fig4_paper_trend_2019](https://user-images.githubusercontent.com/40276516/77990083-598f4080-735b-11ea-81ee-0249acb7bebd.png)
     - [이미지 라벨링](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-labeling/)
     - [이호성](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
     - R-CNN
