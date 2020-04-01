@@ -64,6 +64,9 @@
 - R-CNN은 최초로 Object Detection에 Deep Learning 방법인 CNN을 적용시켰다는 점과
 - 이후 2-stage detector들의 구조에 막대한 영향을 미쳤다는 점에서 의미가 큰 논문입니다.
 
+### R-CNN 요약
+![구조](https://user-images.githubusercontent.com/40276516/78113624-faa0f880-743a-11ea-82fc-495be34aef25.png)
+
 ### 참고
 - [1] Selective Search for Object Recognition, J. R. R. Uijings et al, IJCV13.
 - [R-CNN(Regions with CNN features) 논문 리뷰](https://jaehyeongan.github.io/2019/10/10/R-CNN/)
