@@ -16,8 +16,7 @@
 
     - [이미지 라벨링](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-labeling/)
     - [이호성](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
-    - [R-CNN](https://github.com/JONGSKY/paper/tree/master/R-CNN)
-    - Fast R-CNN, Faster R-CNN
+    - [R-CNN](https://github.com/JONGSKY/paper/tree/master/R-CNN), [Fast R-CNN](https://github.com/JONGSKY/paper/tree/master/Fast_R-CNN), [Faster R-CNN](https://github.com/JONGSKY/paper/tree/master/Faster_R-CNN)
     - YoLo v1,v2,v3
     - SSD
   - Image Segmentation
