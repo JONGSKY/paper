@@ -2,14 +2,10 @@
 
 ## Fast R-CNN이란
 
-#### Fast R-CNN과 R-CNN 비교
-  1) RoI (Region of Interest) 마다 CNN연산을 함으로써 속도저하 --> RoI pooling
-  2) multi-stage pipelines으로써 모델을 한번에 학습시키지 못함 --> CNN 특징 추출부터 classification, bounding box regression까지 하나의 모델에서 학습
-  
 #### Fast R-CNN 
 
 ##### "CNN 특징 추출부터 classification, bounding box regression 까지 모두 하나의 모델에서 학습시키자!" 
-  ![fAST-rNN](https://user-images.githubusercontent.com/40276516/79423991-79309500-7ffa-11ea-8c6f-ef0ee570b198.png)
+![fig3](https://user-images.githubusercontent.com/40276516/79542182-215f6000-80c6-11ea-8e8a-d38060a1ed26.png)
   
   1-1. R-CNN에서와 마찬가지로 Selective Search를 통해 RoI를 찾는다.
 
@@ -25,6 +21,15 @@
 
   5-2. bounding box regression을 통해 selective search로 찾은 box의 위치를 조정한다. 
 
+
+#### Fast R-CNN과 R-CNN 비교
+
+![fig4](https://user-images.githubusercontent.com/40276516/79542188-245a5080-80c6-11ea-9510-6cf491a53a8f.png)
+
+  1) RoI (Region of Interest) 마다 CNN연산을 함으로써 속도저하 --> RoI pooling
+  2) multi-stage pipelines으로써 모델을 한번에 학습시키지 못함 --> CNN 특징 추출부터 classification, bounding box regression까지 하나의 모델에서 학습
+  
+  
 ### Fast R-CNN 구조 살펴보기
 
 ![fast-rcnn](https://user-images.githubusercontent.com/40276516/79425258-64550100-7ffc-11ea-842c-55742c0d1d8b.png)
