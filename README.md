@@ -20,7 +20,7 @@
     - YoLo v1,v2,v3
     - SSD
   - Image Segmentation
-    - FCN
+    - [FCN](https://github.com/JONGSKY/paper/tree/master/FCN)
     - SANet
   - Image Generation
     - [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
